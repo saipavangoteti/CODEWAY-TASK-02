@@ -1,9 +1,5 @@
 # CODEWAY-TASK-02
 
-Absolutely! Including a license in your GitHub repository is a good practice. Below is an updated version of the overview that includes a licensing section:
-
----
-
 # Inspiration App
 
 ## Overview
